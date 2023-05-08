@@ -31,10 +31,11 @@ Include your HTML code here
 ```
 
 ## Output:
-Include your output screenshot here
-file:///C:/Users/SEC/Desktop/book%20cover/image.html
+
+![bookimage1](https://user-images.githubusercontent.com/128461833/236837763-ec99cecb-3a0f-4086-b7f2-591b3052cdee.png)
+
 
 ## Result:
 Write your result!
-[bookimage1](https://user-images.githubusercontent.com/128461833/236837081-74b7929b-a768-463c-b105-8196c7ca6409.png)
+file:///C:/Users/SEC/Desktop/book%20cover/image.html
 
